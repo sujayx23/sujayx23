@@ -24,3 +24,43 @@ Languages:   Java | Python | C++ | JavaScript | HTML/CSS | ABAP | SQL
 Frameworks:  Flask | React | OpenCV | Scikit-learn | TensorFlow | NLTK  
 Tools:       Git | Docker | Jenkins | Jira | Pandas | NumPy  
 Cloud & ERP: AWS | SAP Ariba | Cloud Integration Gateway (CIG)
+
+---
+
+💼 Professional Experience  
+
+🔹 **SAP Ariba Consultant @ Accenture**  
+- Engineered Procure-to-Order workflows, automated approval cycles, and financial reconciliation  
+- Implemented CIG for seamless SAP ERP–Ariba integration, leading Go-Live deployments  
+- Authored integration guides and streamlined data exchange processes  
+
+🔹 **ML Intern @ Smartbridge**  
+- Built ML models with Scikit-learn and automated preprocessing with Pandas  
+- Reduced model dev time by 35% through optimized pipelines  
+
+🔹 **Research Assistant @ R.M.K Engineering College**  
+- Co-authored research in facial recognition-based security and real-time detection systems  
+
+---
+
+🧠 Projects & Publications  
+- 📌 [Bank Transaction using Face Recognition](https://ieeexplore.ieee.org/document/10060800)  
+- 📌 [Real-Time Drowsiness Detection System](https://ieeexplore.ieee.org/document/9532758)  
+
+Explore my repositories to see hands-on AI, ML, and ERP integration projects!
+
+---
+
+🎮 Life Beyond Code  
+When I'm not coding or debugging, I enjoy watching cricket, geeking out over AI innovations, and catching up on my favorite shows. I'm always open to meaningful conversations and new collaborations.
+
+---
+
+🌐 Let’s Connect!  
+🔗 [LinkedIn](https://www.linkedin.com/in/sujay-nithish-h-8363ba247)  
+💻 [GitHub](https://github.com/sujayx23)  
+📫 Email: snh6@illinois.edu | nithishsujay17@gmail.com  
+
+---
+
+💡 *"Turning curiosity into code and challenges into scalable solutions."*
