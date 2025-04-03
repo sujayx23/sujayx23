@@ -7,7 +7,6 @@
 
 #### 🧠 About Me
 
-🧠 About Me  
 I’m a technically inclined software engineer with expertise in SAP Ariba integrations and enterprise-grade system automation, now transitioning into AI and machine learning. With 2+ years at Accenture, I’ve delivered scalable ERP solutions and end-to-end procurement workflows, and I’m currently expanding my focus toward intelligent systems, data-driven modeling, and applied ML across real-world domains.
 
 - 💼 Former Application Development Analyst @ Accenture  
