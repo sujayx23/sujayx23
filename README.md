@@ -67,8 +67,7 @@ Explore my repositories to see hands-on AI, ML, and CV projects!
 
 ## 🎮 Life Beyond Code  
 When I’m not deep into code, you’ll probably find me chasing a ball on the soccer field or lifting ideas (and sometimes actual weights) at the gym.  
-I’m always exploring the latest in AI and tech — it’s where my curiosity lives.  
-And when it’s time to chill, I’m all about binge-worthy shows and great conversations — hit me up with recs or collab ideas!
+I’m always exploring the latest in AI and tech — it’s where my curiosity lives. And when it’s time to chill, I’m all about binge-worthy shows and great conversations — hit me up with recs or collab ideas!
 
 ---
 
