@@ -43,11 +43,17 @@ Cloud & ERP: AWS | SAP Ariba | Cloud Integration Gateway (CIG)
 
 ---
 
-🧠 Projects & Publications  
-- 📌 [Bank Transaction using Face Recognition](https://ieeexplore.ieee.org/document/10060800)  
-- 📌 [Real-Time Drowsiness Detection System](https://ieeexplore.ieee.org/document/9532758)  
+🧠 Projects & Publications
 
-Explore my repositories to see hands-on AI, ML, and ERP integration projects!
+- **Bank Transaction using Face Recognition**  
+  Developed a secure banking authentication system using real-time facial recognition with OTP and liveness detection. Built with **Flask**, **OpenCV**, and **SQLite** to ensure multi-factor biometric authentication.  
+  🔗 [**IEEE Xplore – View Paper**](https://ieeexplore.ieee.org/document/10060800)
+
+- **Real-Time Drowsiness Detection System**  
+  Created an AI-powered driver monitoring system using **eye aspect ratio tracking** to detect fatigue. Integrated **OpenCV** and **Dlib** for real-time video processing and alert triggering.  
+  🔗 [**IEEE Xplore – View Paper**](https://ieeexplore.ieee.org/document/9532758)
+
+Explore my repositories to see hands-on AI, ML, and CV projects!
 
 ---
 
