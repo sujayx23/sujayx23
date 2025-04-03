@@ -7,7 +7,8 @@
 
 #### 🧠 About Me
 
-I’m a passionate software engineer and SAP consultant transitioning into the world of Artificial Intelligence and Machine Learning. With 2+ years of industry experience at Accenture and hands-on academic research, I love building robust solutions—from enterprise ERP integrations to intelligent systems.
+🧠 About Me  
+I’m a technically inclined software engineer with expertise in SAP Ariba integrations and enterprise-grade system automation, now transitioning into AI and machine learning. With 2+ years at Accenture, I’ve delivered scalable ERP solutions and end-to-end procurement workflows, and I’m currently expanding my focus toward intelligent systems, data-driven modeling, and applied ML across real-world domains.
 
 - 💼 Former Application Development Analyst @ Accenture  
 - 🌐 SAP Certified Cloud Integration Gateway (CIG) Consultant  
