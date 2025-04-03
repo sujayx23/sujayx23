@@ -19,7 +19,6 @@ I’m a technically inclined software engineer with expertise in SAP Ariba integ
 
 #### 🔧 Tech Stack
 
-```python
 Languages:   Java | Python | C++ | JavaScript | HTML/CSS | ABAP | SQL  
 Frameworks:  Flask | React | OpenCV | Scikit-learn | TensorFlow | NLTK  
 Tools:       Git | Docker | Jenkins | Jira | Pandas | NumPy  
