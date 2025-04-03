@@ -1,4 +1,4 @@
-### Heyy! 👋 I'm Sujay
+# Heyy! 👋 I'm Sujay
 
 🚀 CS Master's Student @ UIUC | Ex-Accenture Analyst | SAP Consultant | AI/ML Enthusiast  
 📍 Currently in Champaign, IL | Actively seeking Summer 2025 Internships  
