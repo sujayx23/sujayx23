@@ -24,10 +24,10 @@ With 2+ years at **Accenture**, I’ve delivered scalable ERP solutions and proc
 
 ## 🕹️ My Control Panel
 
-**Languages:** Java | Python | C++ | JavaScript | HTML/CSS | ABAP | SQL  
-**Frameworks:** Flask | React | OpenCV | Scikit-learn | TensorFlow | NLTK  
-**Tools:** Git | Docker | Jenkins | Jira | Pandas | NumPy  
-**Cloud & ERP:** AWS | SAP Ariba | Cloud Integration Gateway (CIG)
+**Languages:** Python | C++ | Java | JavaScript | HTML/CSS | SQL/MySQL | ABAP  
+**Frameworks & Libraries:** React | Flask | OpenCV | Scikit-learn | PyTorch | TensorFlow | NLTK | MATLAB  
+**Tools:** Git | Docker | Jenkins | Jira | Excel | Power BI | Pandas | NumPy | Linux  
+**Cloud & ERP:** AWS | SAP Ariba (P2P, Ariba Network) | Cloud Integration Gateway (CIG) | SAP ECC/S4HANA
 
 ---
 
