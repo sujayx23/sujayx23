@@ -1,85 +1,106 @@
-# Heyy! 👋 I'm Sujay
+# Hey, I'm Sujay 👋
 
-🚀 **CS Master's Student @ UIUC** | Ex-Accenture Analyst | SAP Consultant | AI/ML Enthusiast  
-📍 **Based in Champaign, IL** | Actively seeking **Summer 2025 Internships**
-
----
-
-## 🧠 About Me
-
-I’m a technically inclined software engineer with expertise in **SAP Ariba integrations** and **enterprise-grade system automation**, now transitioning into **AI and Machine Learning**.  
-With 2+ years at **Accenture**, I’ve delivered scalable ERP solutions and procurement workflows — now expanding into **intelligent systems**, **data-driven modeling**, and **applied ML**.
+🎓 **M.S. Computer Science @ UIUC (May 2026)** | Ex-Accenture Software Engineer | Distributed Systems 
+📍 Urbana, IL · Open to full-time SWE roles starting May 2026
 
 ---
 
-## 🚀 My Journey So Far
+## About Me
 
-- 💼 **Former Application Development Analyst** @ Accenture  
-- 🌐 **SAP Certified Cloud Integration Gateway (CIG) Consultant**  
-- 📄 **Published Researcher** in Facial Recognition & Drowsiness Detection ([IEEE Xplore](https://ieeexplore.ieee.org/))  
-- 🛠️ **Skilled in** Java, Python, ML, SQL, SAP Ariba, React, and more  
-- 🎓 **Currently pursuing Master's** in CS @ UIUC (Class of 2026)
+Software engineer with 2.5+ years of industry experience building scalable backend systems, distributed infrastructure, and machine learning pipelines.
 
----
+From shipping production microservices at Accenture serving millions of daily transactions, to designing fault-tolerant distributed file systems and RAG pipelines at UIUC — I thrive at the intersection of **backend engineering**, **distributed systems**, and **applied ML**.
 
-## 🕹️ My Control Panel
-
-**Languages:** Python | C++ | Java | JavaScript | HTML/CSS | SQL/MySQL | ABAP  
-**Frameworks & Libraries:** React | Flask | OpenCV | Scikit-learn | PyTorch | TensorFlow | NLTK | MATLAB  
-**Tools:** Git | Docker | Jenkins | Jira | Excel | Power BI | Pandas | NumPy | Linux  
-**Cloud & ERP:** AWS | SAP Ariba (P2P, Ariba Network) | Cloud Integration Gateway (CIG) | SAP ECC/S4HANA
+> *"Tech enthusiast powered by curiosity, clean code, and matchday adrenaline."*
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Tech Arsenal
 
-### 🔹 Application Development Analyst @ Accenture
-- Engineered **Procure-to-Order** workflows, automated approval cycles, and financial reconciliation  
-- Implemented **CIG** for seamless SAP ERP–Ariba integration, leading Go-Live deployments  
-- Designed and validated integration workflows in **Test Central** for smooth procurement data exchange  
-- Collaborated with stakeholders to align Ariba with **enterprise financial reporting**
+**Languages:** C++ · Java · Python · Go · SQL · JavaScript
 
-### 🔹 ML Intern @ Smartbridge
-- Built ML models with **Scikit-learn** and automated preprocessing with **Pandas**  
-- Optimized development time by 35% through efficient pipeline design
+**Frameworks:** Spring Boot · FastAPI · React · Flask · LangChain
 
-### 🔹 Research Study Assistant @ R.M.K Engineering College
-- Co-authored published research in **real-time facial recognition** and **driver monitoring systems**
+**Cloud & Infra:** AWS · GCP · Docker · Kubernetes · Terraform · Jenkins · CI/CD
+
+**Databases:** PostgreSQL · MongoDB · Cassandra · ChromaDB · SQLite
+
+**Tools:** GraphQL · REST APIs · Apache Spark · Splunk · Prometheus · OpenCV · Linux · Git
 
 ---
 
-## 📘 Projects & Publications
+## 💼 Experience
 
-A glimpse into some of my applied AI and computer vision work:
+**Computer Scientist** — Decision Making Lab, UIUC *(Jan 2026 – Present)*  
+Building automated deployment and release pipelines using Azure DevOps and Bash scripting for MATLAB applications across Linux and Windows.
 
-### 🚀 Bank Transaction using Face Recognition  
-🔗 [**IEEE Xplore**](https://ieeexplore.ieee.org/document/10060800)  
-- Designed a secure multi-factor auth system using real-time facial recognition and OTP verification  
-- Tech stack: **OpenCV**, **CNN**, **Haar Cascade**, **Flask**, **SQLite**, **SMTP**
+**Research Assistant** — Forward Data Lab, UIUC *(Jun 2025 – Nov 2025)*  
+Built a RAG pipeline using MiniLM + ChromaDB achieving 40% improvement in retrieval precision. Developed a 50+ metric evaluation framework improving QA accuracy from 68% → 91%.
 
-### 🏎️ Real-Time Drowsiness Detection System  
-🔗 [**IEEE Xplore**](https://ieeexplore.ieee.org/document/9532758)  
-- Built a driver fatigue monitoring system using **eye aspect ratio (EAR)** tracking and facial landmarks  
-- Achieved 96% accuracy with **OpenCV**, **Dlib**, and low-latency alert triggers
+**Software Engineer / Capability Uplift Lead** — Accenture *(Dec 2022 – Jan 2025)*  
+- Built backend services in Java/Spring Boot processing **5M+ daily transactions**
+- Developed REST & GraphQL microservices on PostgreSQL and MongoDB
+- Designed CI/CD pipelines (Jenkins, Docker, Terraform) enabling **15+ production releases/week**
+- Improved API throughput by **30%** through query optimisation
+- Mentored junior engineers across code reviews and SDLC design discussions
 
-> 📂 Explore my [GitHub repositories](https://github.com/sujayx23) for more hands-on AI, ML, and ERP projects.
+**Machine Learning Intern** — Smartbridge *(Jan 2021 – Mar 2021)*  
+Built Scikit-learn ML models for internal analytics; automated Pandas preprocessing pipelines.
+
+---
+
+## 🚀 Projects
+
+### [RainStorm — Fault-Tolerant Distributed Stream Processing Framework](https://github.com/sujayx23)
+Built a scalable stream processing engine in Go (inspired by Spark Streaming) with a custom distributed file system using hybrid HDFS/Cassandra architecture and SWIM protocol for failure detection.  
+`Go · Cassandra · HDFS · SWIM Protocol · Distributed Systems`
+
+### [RepoScout — GitHub Semantic Search & Recommender](https://github.com/sujayx23)
+Semantic search and recommendation engine using SBERT embeddings, improving search relevance by **18%** via click-through rate evaluation. FastAPI backend + React frontend.  
+`FastAPI · React · SBERT · NLP · REST APIs`
+
+### [Bank Transaction Using Face Recognition](https://ieeexplore.ieee.org/document/10060800) — IEEE Published
+Secure banking auth system using real-time facial recognition with OpenCV, CNN, and Haar cascade. Flask web interface with SQLite and SMTP transaction emails.  
+`OpenCV · CNN · Flask · SQLite · Computer Vision`
+
+### [Driver Drowsiness Detection System](https://ieeexplore.ieee.org/document/9532758) — IEEE Published
+Real-time fatigue monitoring using eye aspect ratio (EAR) tracking with OpenCV and Dlib. Achieved **96% facial landmark detection accuracy** on continuous video streams.  
+`Python · OpenCV · Dlib · MATLAB · Computer Vision`
+
+---
+
+## 🎓 Education
+
+**M.S. Computer Science** — University of Illinois Urbana-Champaign *(Jan 2025 – May 2026)*  
+Specialization: Distributed Systems · Coursework: Distributed Systems, ML, NLP, Data Management
+
+**B.E. Computer Science** — R.M.K Engineering College *(Aug 2018 – May 2022)*  
+GPA: 9.3/10 · Coursework: AI, OS, DSA, Computer Vision
+
+---
+
+## 📜 Certifications
+
+- SAP Certified Implementation Consultant — Managed Gateway for Spend & Business Network
+- Full-Stack Web Development — Udemy
+- Cloud Computing — Coursera
+- Database Management System — NPTEL
+- Artificial Intelligence — Coursera
+- Java Programming — NPTEL
 
 ---
 
 ## 🎮 Life Beyond Code
 
-When I’m not deep in code, you’ll probably find me out on the **soccer field** or lifting ideas (and the occasional dumbbell) at the gym.  
+When I'm not deep in code, you'll probably find me out on the **soccer field** or lifting ideas (and the occasional dumbbell) at the gym.  
 I love exploring the **latest in AI**, binge-watching gripping TV shows, and connecting over good tech convos or matchday highlights.  
-**Let’s build, learn, and vibe — together.**
+**Let's build, learn, and vibe — together.**
 
 ---
 
-## 🌐 Let’s Connect!
+## Let's Connect
 
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/sujay-nithish-h-8363ba247)  
-- 💻 [**GitHub**](https://github.com/sujayx23)  
-- 📫 **Email:** nithishsujay17@gmail.com | snh6@illinois.edu
-
----
-
-### 💡 *"Tech enthusiast powered by curiosity, machine learning, and matchday adrenaline."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sujay--nithish--h-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sujay-nithish-h)
+[![GitHub](https://img.shields.io/badge/GitHub-sujayx23-black?style=flat&logo=github)](https://github.com/sujayx23)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sujay23.vercel.app-green?style=flat)](https://sujay23.vercel.app)
+📫 nithishsujay17@gmail.com · snh6@illinois.edu
