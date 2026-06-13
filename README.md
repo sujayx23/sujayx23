@@ -1,7 +1,7 @@
 # Hey, I'm Sujay 👋
 
-🎓 **M.S. Computer Science @ UIUC (May 2026)** | Ex-Accenture Software Engineer | Distributed Systems 
-📍 Urbana, IL · Open to full-time SWE roles starting May 2026
+🎓 **M.S. Computer Science, UIUC (May 2026)** | Ex-Accenture Software Engineer | Distributed Systems 
+📍 Urbana, IL · Open to full-time SWE roles
 
 ---
 
@@ -9,7 +9,7 @@
 
 Software engineer with 2.5+ years of industry experience building scalable backend systems, distributed infrastructure, and machine learning pipelines.
 
-From shipping production microservices at Accenture serving millions of daily transactions, to designing fault-tolerant distributed file systems and RAG pipelines at UIUC — I thrive at the intersection of **backend engineering**, **distributed systems**, and **applied ML**.
+From building C++ enterprise systems and optimizing database workloads at Accenture, to designing fault-tolerant distributed file systems and RAG pipelines at UIUC — I thrive at the intersection of **backend engineering**, **distributed systems**, and **applied ML**.
 
 > *"Tech enthusiast powered by curiosity, clean code, and matchday adrenaline."*
 
@@ -17,34 +17,35 @@ From shipping production microservices at Accenture serving millions of daily tr
 
 ## 🛠️ Tech Arsenal
 
-**Languages:** C++ · Java · Python · Go · SQL · JavaScript
+**Languages:** C++ · Java · Python · Go · SQL · JavaScript · TypeScript
 
-**Frameworks:** Spring Boot · FastAPI · React · Flask · LangChain
+**Frameworks:** Node.js · FastAPI · React · GraphQL · OpenCV
 
-**Cloud & Infra:** AWS · GCP · Docker · Kubernetes · Terraform · Jenkins · CI/CD
+**Cloud & Infra:** AWS · Azure · Docker · Terraform · Jenkins · CI/CD · Prometheus · Splunk
 
-**Databases:** PostgreSQL · MongoDB · Cassandra · ChromaDB · SQLite
+**Databases:** PostgreSQL · SQL Server · MongoDB · Cassandra · Redis · ChromaDB
 
-**Tools:** GraphQL · REST APIs · Apache Spark · Splunk · Prometheus · OpenCV · Linux · Git
+**Tools:** REST APIs · Apache Spark · Linux · Git
 
 ---
 
 ## 💼 Experience
 
-**Computer Scientist** — Decision Making Lab, UIUC *(Jan 2026 – Present)*  
-Building automated deployment and release pipelines using Azure DevOps and Bash scripting for MATLAB applications across Linux and Windows.
+**Computer Scientist, Decision Making Lab, UIUC** *(Jan 2026 – Present)*  
+Automated deployment and release pipelines using Azure DevOps and Bash scripting for MATLAB applications across Linux and Windows.
 
-**Research Assistant** — Forward Data Lab, UIUC *(Jun 2025 – Nov 2025)*  
-Built a RAG pipeline using MiniLM + ChromaDB achieving 40% improvement in retrieval precision. Developed a 50+ metric evaluation framework improving QA accuracy from 68% → 91%.
+**Research Assistant, Forward Data Lab, UIUC** *(Jun 2025 – Nov 2025)*  
+Developed a Python retrieval and evaluation framework for RAG systems using MiniLM + ChromaDB, improving retrieval precision by **40%**. Designed a custom benchmarking framework with **15+ metrics**, improving QA accuracy from **68% → 91%**.
 
-**Software Engineer / Capability Uplift Lead** — Accenture *(Dec 2022 – Jan 2025)*  
-- Built backend services in Java/Spring Boot processing **5M+ daily transactions**
-- Developed REST & GraphQL microservices on PostgreSQL and MongoDB
-- Designed CI/CD pipelines (Jenkins, Docker, Terraform) enabling **15+ production releases/week**
-- Improved API throughput by **30%** through query optimisation
-- Mentored junior engineers across code reviews and SDLC design discussions
+**Software Engineer, Accenture** *(Dec 2022 – Jan 2025)*  
+• Developed C++ application components within a large-scale enterprise platform, resolving build issues across CMake and Jenkins pipelines  
+• Optimized PostgreSQL and SQL Server workloads through indexing, partitioning, and query tuning, improving database performance by **35%**  
+• Developed Python log aggregation pipelines across **8+ backend services**, improving production incident investigation  
+• Implemented observability using Splunk and Prometheus across **8+ backend services**  
+• Automated CI/CD pipelines using Jenkins, Docker, Terraform, and AWS, enabling **15+ production releases/week**  
+• Developed automated integration and regression test suites using Selenium and JUnit
 
-**Machine Learning Intern** — Smartbridge *(Jan 2021 – Mar 2021)*  
+**Machine Learning Intern, Smartbridge** *(Jan 2021 – Mar 2021)*  
 Built Scikit-learn ML models for internal analytics; automated Pandas preprocessing pipelines.
 
 ---
@@ -52,29 +53,29 @@ Built Scikit-learn ML models for internal analytics; automated Pandas preprocess
 ## 🚀 Projects
 
 ### [RainStorm — Fault-Tolerant Distributed Stream Processing Framework](https://github.com/sujayx23)
-Built a scalable stream processing engine in Go (inspired by Spark Streaming) with a custom distributed file system using hybrid HDFS/Cassandra architecture and SWIM protocol for failure detection.  
+Built a scalable stream processing engine inspired by Spark Streaming with a custom distributed file system using hybrid HDFS/Cassandra architecture and SWIM protocol for failure detection. Implemented exactly-once processing guarantees using versioned checkpoints and fault-tolerant task recovery.  
 `Go · Cassandra · HDFS · SWIM Protocol · Distributed Systems`
 
 ### [RepoScout — GitHub Semantic Search & Recommender](https://github.com/sujayx23)
-Semantic search and recommendation engine using SBERT embeddings, improving search relevance by **18%** via click-through rate evaluation. FastAPI backend + React frontend.  
-`FastAPI · React · SBERT · NLP · REST APIs`
+Deployed RESTful APIs using FastAPI for a semantic code search platform powered by SBERT embeddings, containerizing services with Docker and improving search relevance by **13%**. Built a responsive React frontend using TypeScript and Redis for real-time search.  
+`FastAPI · React · TypeScript · SBERT · Docker · Redis · NLP`
 
 ### [Bank Transaction Using Face Recognition](https://ieeexplore.ieee.org/document/10060800) — IEEE Published
 Secure banking auth system using real-time facial recognition with OpenCV, CNN, and Haar cascade. Flask web interface with SQLite and SMTP transaction emails.  
 `OpenCV · CNN · Flask · SQLite · Computer Vision`
 
-### [Driver Drowsiness Detection System](https://ieeexplore.ieee.org/document/9532758) — IEEE Published
-Real-time fatigue monitoring using eye aspect ratio (EAR) tracking with OpenCV and Dlib. Achieved **96% facial landmark detection accuracy** on continuous video streams.  
-`Python · OpenCV · Dlib · MATLAB · Computer Vision`
+### [Driver Drowsiness Detection using OpenCV](https://ieeexplore.ieee.org/document/9532758) — IEEE ICESC 2021
+Developed a real-time video processing system in Python using OpenCV and NumPy to extract facial landmarks and compute Eye Aspect Ratio (EAR) from continuous camera input. Built lightweight, threshold-based detection logic optimized for CPU execution, enabling low-latency alerts and **96% accuracy**.  
+`Python · OpenCV · NumPy · Computer Vision · Machine Learning`
 
 ---
 
 ## 🎓 Education
 
 **M.S. Computer Science** — University of Illinois Urbana-Champaign *(Jan 2025 – May 2026)*  
-Specialization: Distributed Systems · Coursework: Distributed Systems, ML, NLP, Data Management
+GPA: 3.85/4.0 · Specialization: Distributed Systems · Coursework: Distributed Systems, ML, Software Engineering
 
-**B.E. Computer Science** — R.M.K Engineering College *(Aug 2018 – May 2022)*  
+**B.E. Computer Science** — Anna University, Chennai, India *(Aug 2018 – May 2022)*  
 GPA: 9.3/10 · Coursework: AI, OS, DSA, Computer Vision
 
 ---
