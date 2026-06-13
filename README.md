@@ -1,7 +1,7 @@
 # Hey, I'm Sujay 👋
 
-🎓 **M.S. Computer Science, UIUC (May 2026)** | Ex-Accenture Software Engineer | Distributed Systems 
-📍 Urbana, IL · Open to full-time SWE roles
+🎓 **Master's in Computer Science, UIUC (May 2026)** | Ex-Accenture Software Engineer | Distributed Systems 
+· Open to full-time SWE roles
 
 ---
 
@@ -9,7 +9,7 @@
 
 Software engineer with 2.5+ years of industry experience building scalable backend systems, distributed infrastructure, and machine learning pipelines.
 
-From building C++ enterprise systems and optimizing database workloads at Accenture, to designing fault-tolerant distributed file systems and RAG pipelines at UIUC — I thrive at the intersection of **backend engineering**, **distributed systems**, and **applied ML**.
+From building C++ enterprise systems and optimizing database workloads at Accenture, to designing fault-tolerant distributed file systems and RAG pipelines at UIUC, I thrive at the intersection of **backend engineering**, **distributed systems**, and **applied ML**.
 
 > *"Tech enthusiast powered by curiosity, clean code, and matchday adrenaline."*
 
@@ -76,7 +76,7 @@ Developed a real-time video processing system in Python using OpenCV and NumPy t
 GPA: 3.85/4.0 · Specialization: Distributed Systems · Coursework: Distributed Systems, ML, Software Engineering
 
 **B.E. Computer Science** — Anna University, Chennai, India *(Aug 2018 – May 2022)*  
-GPA: 9.3/10 · Coursework: AI, OS, DSA, Computer Vision
+GPA: 8.5/10 · Coursework: AI, OS, DSA
 
 ---
 
